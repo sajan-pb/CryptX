@@ -1,0 +1,17 @@
+node_modules/
+frontend/node_modules/
+.env
+.env.*
+artifacts/
+cache/
+types/
+fhevmTemp/
+coverage/
+dist/
+frontend/dist/
+.DS_Store
+*.log
+.local/
+frontend/public/vendor/
+frontend/test-results/
+frontend/playwright-report/

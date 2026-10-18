@@ -1,0 +1,16 @@
+{
+  "name": "Window Rain",
+  "description": "A city window with vertical rain and reflected light.",
+  "image": "http://127.0.0.1:5173/art/sketches/05.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0x43c090d6fc90e8ed7295bb2b644224d3aefd54b4dc1b9227b8e76e036c52f372"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Blue Vessel",
+  "description": "A ceramic silhouette surrounded by drifting lines.",
+  "image": "http://127.0.0.1:5173/art/sketches/02.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0xbbb5cf1a45688c02424672eaf8a1adfac280d4134ad1a289bb7d0084953a6d4a"
+}

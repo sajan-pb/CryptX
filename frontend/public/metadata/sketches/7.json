@@ -1,0 +1,16 @@
+{
+  "name": "Desert Lantern",
+  "description": "An angular lantern rests between dunes.",
+  "image": "http://127.0.0.1:5173/art/sketches/07.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0x8bdea397d1e80ca3360493d0b4324c7cbd4cab838fb07313000649982a7cdc69"
+}

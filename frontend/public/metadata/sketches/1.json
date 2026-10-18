@@ -1,0 +1,16 @@
+{
+  "name": "Quiet Terrace",
+  "description": "A study of layered balconies and a single rising sun.",
+  "image": "http://127.0.0.1:5173/art/sketches/01.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0xde05b40d2df49d4122d93ae8596e9c457c558a03c76d19949535995294610771"
+}

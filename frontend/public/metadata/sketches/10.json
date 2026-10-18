@@ -1,0 +1,16 @@
+{
+  "name": "Coastal Lines",
+  "description": "A quiet horizon, a sail and a repeating tide.",
+  "image": "http://127.0.0.1:5173/art/sketches/10.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0x57aa293865d5c4e797c330805bde56d6f2646507c3882c2d71d4181309310789"
+}

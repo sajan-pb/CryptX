@@ -1,0 +1,16 @@
+{
+  "name": "Night Orchard",
+  "description": "Branches and small fruit under a square moon.",
+  "image": "http://127.0.0.1:5173/art/sketches/04.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0x975c9969a5ad946aa413065e15e58611cb1181efa3697e0d6cad5b4cb4c525c1"
+}

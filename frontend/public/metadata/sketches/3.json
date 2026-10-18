@@ -1,0 +1,16 @@
+{
+  "name": "Soft Current",
+  "description": "Long river curves cross an open field.",
+  "image": "http://127.0.0.1:5173/art/sketches/03.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0x9135a24cce08f8b230dfc63dbc51d5d864d12d44fe98757c229910974e5faff1"
+}

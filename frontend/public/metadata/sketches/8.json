@@ -1,0 +1,16 @@
+{
+  "name": "Paper Kites",
+  "description": "Two small kites balance in a wide sky.",
+  "image": "http://127.0.0.1:5173/art/sketches/08.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0x4bc0bbf9550f0c85ca401a924788298a4e3eb55cc41d17c926c88c5af89e2c02"
+}

@@ -1,0 +1,40 @@
+{
+  "kind": "canvas-market",
+  "chainId": 11155111,
+  "creator": "0xa128D37463b7233c7338d6Aef0dd5c347BFdcC70",
+  "sketches": "0xE98bEd0943A1fc22296E1bBfafca30660a3b6508",
+  "hiddenCanvas": "0x8a2d41319C8bF12Cc86a10C2499d195a9dF47a84",
+  "marketplace": "0xc6209DBeF278159DAeb383414C34266D65ec1252",
+  "licences": "0x8a465728f97EEc5062Ed57E46B5659Cfbd7d9E13",
+  "sketchMetadataBaseURI": "http://127.0.0.1:5173/metadata/sketches/",
+  "mintPriceWei": "1000000000000000",
+  "licenceFeeWei": "100000000000000",
+  "activationDelayBlocks": 96,
+  "transactions": {
+    "sketchesDeployment": {
+      "hash": "0xa4390be8145720dd316b92549a457f59ec5b658f2f1af2d3e7d7ee8b157fd048",
+      "block": 11937496
+    },
+    "hiddenDeployment": {
+      "hash": "0x27b653c9aa7b7489c2dda9eccc1ebb016fd2968c76fd60b11ed05217fcb74a83",
+      "block": 11937499
+    },
+    "marketplaceDeployment": {
+      "hash": "0x9f02e1d2772a40b2fcc595697a6e42bee83c1c37748277ee135c6e457d636a9d",
+      "block": 11937501
+    },
+    "licencesDeployment": {
+      "hash": "0x68200ec91dbae2221e3263abf0b4b932ff027b7d90febd55a86235751ddf53d6",
+      "block": 11937505
+    },
+    "linkSketches": {
+      "hash": "0x6af03c17af56f7b0ab7e42a2c931aa05d687d1ad004b408853e15fce2537afac",
+      "block": 11937507
+    },
+    "linkHidden": {
+      "hash": "0xf9999c91b75012d1bf6783948d1c50b31c5821acc7cea3e0f755ac25c5cdeafa",
+      "block": 11937510
+    }
+  },
+  "verifiedAtBlock": 11937515
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CryptX mark">
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#18263d" stroke="#354d73" stroke-width="2"/>
+  <path d="M32 17a16 16 0 1 0 0 30" fill="none" stroke="#f5f8ff" stroke-width="6" stroke-linecap="round"/>
+  <path d="m37 22 12 20m0-20L37 42" fill="none" stroke="#79aaff" stroke-width="5" stroke-linecap="round"/>
+</svg>

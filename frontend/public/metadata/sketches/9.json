@@ -1,0 +1,16 @@
+{
+  "name": "Three Arches",
+  "description": "Repeated doorway curves frame an empty center.",
+  "image": "http://127.0.0.1:5173/art/sketches/09.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0x77812c1daa24a759aa36214356f394646d414bbc5f1c9358bdba96a2498a67d6"
+}

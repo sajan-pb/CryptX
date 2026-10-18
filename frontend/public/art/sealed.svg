@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-label="Sealed Hidden Canvas placeholder">
+  <rect width="640" height="640" fill="#e9e3d8"/>
+  <rect x="32" y="32" width="576" height="576" fill="none" stroke="#3d514b" stroke-width="2" opacity=".45"/>
+  <path d="M126 390 320 132l194 258-194 118z" fill="#d1b79a" stroke="#3d514b" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M126 390 320 262l194 128M320 262v246" fill="none" stroke="#3d514b" stroke-width="6" opacity=".6"/>
+  <circle cx="320" cy="359" r="34" fill="#3d514b"/>
+  <path d="M320 365v39" stroke="#e9e3d8" stroke-width="11" stroke-linecap="round"/>
+  <text x="320" y="566" fill="#3d514b" text-anchor="middle" font-family="serif" font-size="19" letter-spacing="5">HIDDEN CANVAS · SEALED</text>
+</svg>

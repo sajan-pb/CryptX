@@ -1,0 +1,16 @@
+{
+  "name": "Amber Steps",
+  "description": "Staggered stairs climb toward an amber disc.",
+  "image": "http://127.0.0.1:5173/art/sketches/06.svg",
+  "attributes": [
+    {
+      "trait_type": "Medium",
+      "value": "Original vector sketch"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sketches 2026"
+    }
+  ],
+  "content_sha256": "0x4539ad7d4976253c54063219c1559185ec0d35b3a4ace6711c552d4f639bd862"
+}
