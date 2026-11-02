@@ -64,7 +64,6 @@
   ],
   "scripts": {
     "compile": "hardhat compile",
-    "test": "hardhat test",
     "typecheck": "tsc --noEmit"
   },
   "overrides": {

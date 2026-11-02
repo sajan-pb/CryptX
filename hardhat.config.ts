@@ -17,7 +17,6 @@ const config: HardhatUserConfig = {
     overrides: {
       'contracts/CanvasArt.sol': { version: '0.8.27', settings: { ...compilerSettings, viaIR: true } },
       'contracts/HiddenCanvasNFT.sol': { version: '0.8.27', settings: { ...compilerSettings, viaIR: true } },
-      'contracts/test/CanvasArtHarness.sol': { version: '0.8.27', settings: { ...compilerSettings, viaIR: true } },
     },
   },
   networks: {

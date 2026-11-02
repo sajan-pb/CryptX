@@ -15,3 +15,18 @@ frontend/dist/
 frontend/public/vendor/
 frontend/test-results/
 frontend/playwright-report/
+
+# Local notes and coursework test code are not needed to run CryptX.
+/docs/
+/CryptX_Complete_Project_Guide.pdf
+/test/
+/contracts/test/
+/frontend/test/
+/frontend/playwright.config.ts
+/contracts/SeedFeasibility.sol
+/scripts/import-market-manifest.mjs
+/scripts/generate-sketches.mjs
+
+# Recreated by scripts/sync-market-frontend.mjs during dev/build.
+/frontend/src/abi/
+/frontend/src/market/catalog.json
